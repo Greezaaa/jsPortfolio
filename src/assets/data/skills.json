@@ -1,0 +1,25 @@
+{
+    "barista": {
+        "1": "Preparación de diferentes tipos de bebidas a base de espresso",
+        "2": "Latte Art",
+        "3": "Slow Coffee, elaboración de café con métodos alternativos",
+        "4": "Servicio al cliente con una actitud amable y agradable",
+        "5": "Gestion de inventario",
+        "6": "La capacidad para realizar un trabajo detallado, rápido y seguro",
+        "7": "La capacidad de trabajar bajo mucho estrés",
+        "8": "La capacidad de seguir las normas de seguridad e higiene",
+        "9": "Captación y idealización de nuevos clientes",
+        "10": "Experiencia en realización de eventos y formaciones",
+        "11": "Conocimientos sobre mantenimiento de maquinaria",
+        "12": "Experiencia en gestión de empresas"
+    },
+    "developer": {
+        "1": "HTML 5",
+        "2": "SCSS",
+        "3": "CSS",
+        "4": "JavaScript",
+        "5": "PHP",
+        "6": "MySQL",
+        "7": "MongoDB"
+    }
+}

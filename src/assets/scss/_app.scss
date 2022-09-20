@@ -1,0 +1,21 @@
+body {
+  background-color: $--clr-main-dark;
+  color: $--clr-main-light;
+
+  // MQ mixin call
+  //   @include sm {
+  //     background-color: red;
+  //   }
+  //   @include m {
+  //     background-color: orange;
+  //   }
+  //   @include l {
+  //     background-color: yellow;
+  //   }
+  //   @include xl {
+  //     background-color: green;
+  //   }
+  //   @include xxl {
+  //     background-color: skyblue;
+  //   }
+}
