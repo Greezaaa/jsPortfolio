@@ -91,13 +91,6 @@ function showBarista() {
     }
 }
 
-
-
-
-
-
-
-
 // adding listener to check what link was clicked then running function to show that link content
 for (let link of navLinks) {
     let att = link.getAttribute('data-att');
@@ -114,12 +107,7 @@ function loadExp(att) {
         case ('home'):
             workArea.innerHTML = defaultText;
             break;
-
         case ('experience'):
-            workArea.innerHTML = `
-            <h1> Experiencia laboral</h1>
-            
-            `;
             showDev()
             break;
         case ('skills'):
