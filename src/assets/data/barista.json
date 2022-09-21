@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "place": "BB's Café",
+        "start_at": "1601535600000",
+        "end_at": "1623769200000",
+        "puesto": "head barista",
+        "localidad": "Abadiño, Vizcaya",
+        "responsabilidades": {
+            "1": "Control de calidad de las bebidas a base de café",
+            "2": "Elaboración de la carta de bebidas y comida",
+            "3": "Preparar pedidos de las bolsas de café ",
+            "5": "Atender la tienda física y preparar los pedidos online ",
+            "6": "Limpieza y mantenimiento de la máquina de tueste y cafeteras",
+            "7": "Limpieza y puesto a punto cafetera Rocket Dopia",
+            "8": "Formación de clientes y personal",
+            "9": "Gestión de pedidos"
+        },
+        "lorgos": {
+            "1": "Aumentar el ticket medio",
+            "2": "Mejorar preparación de las bebidas y presentación de los platos",
+            "3": "Reducir el consumo de azúcar por parte de clientes",
+            "4": "Transmitir al personal la pasión por el espresso"
+        }
+    },
+    {
+        "id": 2,
+        "place": "InCaffeine",
+        "start_at": "1491030000000",
+        "end_at": "1589526000000",
+        "puesto": "propietario / head barista",
+        "localidad": "Madrid",
+        "responsabilidades": {
+            "1": "Diseño de barra y selección de maquinaria",
+            "2": "Apertura y cierre diarios",
+            "3": "Control de calidad",
+            "5": "Preparación de eventos y desayunos para empresas",
+            "6": "Desarrolló de carta y su actualización semanal",
+            "7": "Mantenimiento del local y maquinaria",
+            "8": "Mantenimiento de página web y redes sociales",
+            "9": "Promocionar el local y atraer nuevos clientes",
+            "10": "Entrevistas y contratación del personal",
+            "11": "Formaciones, cursos, catas"
+        },
+        "lorgos": {
+            "1": "185 reseñas con puntuación media de 4.8 sobre InCaffeine en Google",
+            "2": "Premio 'Best Specialty Coffee House - Madrid' por LUX Culinary Excellence Award 2020: Healthy Breakfast Cuisine",
+            "3": "Top 1 en la lista de The Top Cafe de 2018 y 2020",
+            "4": "Ganador de Flow King - Madrid, Nov 2018",
+            "5": "Entrevista para 'Cadena Ser' - ¿Son de buena calidad los cafés que consumimos en España?"
+        }
+    },
+    {
+        "id": 3,
+        "place": "Cafés Camuy",
+        "start_at": "1496300400000",
+        "end_at": "1530428400000",
+        "puesto": "propietario / head barista",
+        "localidad": "Madrid",
+        "responsabilidades": {
+            "1": "Fomración de clientes para mejorar la calida de producto",
+            "2": "Fomración de clientes 'Latte Art'",
+            "3": "Atender diferentes tipos de eventos",
+            "5": "Hablar en publico para promocion de la marca",
+            "6": "Creacion de carta de verano con fines de atraer nuevos clientes"
+        },
+        "lorgos": {
+            "1": "Redpresentacion de 'Cafés Camuy' en 32 Salón de Gourmets del 7 al 10 de mayo en IFEMA"
+        }
+    }
+]

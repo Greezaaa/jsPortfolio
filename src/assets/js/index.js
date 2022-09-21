@@ -1,6 +1,6 @@
 // import '../css/componentes.css';
+import './jobs.js';
 
-console.log('assets/js/index.js --- loaded!')
 
 
 
