@@ -47,5 +47,5 @@ npm install
 to run app
 
 ```
-npm run
+npm start
 ```
