@@ -37,7 +37,6 @@ const activeLink = (el) => {
     navs.forEach((link) => {
         link.classList.remove("active");
         el.classList.add("active");
-
     });
 };
 // adding listener to all links from ".link"
@@ -51,7 +50,7 @@ navs.forEach((link) => {
 
 for (let link of navs) {
     link.addEventListener('click', () => {
-        if (link.textContent == 'Inicio') {
+        if (link.getAttribute('data-att') == 'home') {
             workArea.innerHTML = `
             <div class="hi-text">
     <p>Hi, i'm</p>
@@ -77,15 +76,15 @@ for (let link of navs) {
 </div>
             `
 
-        } else if (link.textContent == 'Experiencia laboral') {
+        } else if (link.getAttribute('data-att') == 'experience') {
             workArea.innerHTML = `
             <h1> Experiencia laboral</h1>
             `;
-        } else if (link.textContent == 'Habilidades') {
+        } else if (link.getAttribute('data-att') == 'skills') {
             workArea.innerHTML = `
             <h1> Habilidades</h1>
             `;
-        } else if (link.textContent == 'Contacto') {
+        } else if (link.getAttribute('data-att') == 'contact') {
             workArea.innerHTML = `
             <h1>Contacto</h1>
             `;
