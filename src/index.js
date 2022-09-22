@@ -32,10 +32,7 @@ const navLinks = document.querySelectorAll('.link'),
     </div>
     </div>
     `;
-let posts = null,
-    exp = document.querySelector('.link[data-att="experience"]');
-
-// funcciona 
+let posts = null
 
 function showDev() {
     fetch('./assets/data/developer.json')
@@ -62,6 +59,28 @@ function showDev() {
 
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 function showBarista() {
     fetch('./assets/data/barista.json')
